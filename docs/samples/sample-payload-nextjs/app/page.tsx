@@ -52,7 +52,7 @@ export default function Home() {
           </CardBody>
           <Divider/>
           <CardFooter>
-            <Link isExternal showAnchorIcon href="https://github.com/eclipse-symphony">
+            <Link isExternal showAnchorIcon href="https://github.com/azure/symphony">
               Visit Symphony source code on GitHub.
             </Link>
           </CardFooter>
